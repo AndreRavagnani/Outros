@@ -1,0 +1,75 @@
+body {
+  font-family:sans-serif;
+  background-color: #FFFAFA;
+}
+
+h1, h2 {
+  color: #d12c47;
+}
+
+h1 {
+  border-bottom: 1px solid black;
+}
+
+p {
+  color: maroon;
+}
+
+em {
+  font-family: serif;
+}
+
+p.verde {
+	color: green;
+}
+
+p.azul {
+	color: blue;
+}
+
+p.roxo {
+	color: purple;
+}
+
+p.vermelho {
+	color: red;
+}
+.garantia{
+	border-color: white;
+	border-width: 1px;
+	border-style: dashed;
+	background-color: #a7cece;
+	padding: 25px;
+	padding-left: 80px;
+	margin: 30px;
+	margin-right: 250px;
+	background-image: url(imagens/star.gif);
+	background-repeat: no-repeat;
+	background-position: top left;
+}
+
+#drinks{
+	float: right;
+	border-width: thin;
+	border-style: solid;
+	border-color: #007e7e;
+	width: 200px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	margin-left: 20px;
+	text-align: center;
+	background-image: url(imagens/cocktail.gif);
+	background-repeat: repeat-x;
+}
+#drinks h2 {
+	color: black;
+}
+
+#drinks h3 {
+	color: #d12c47;
+}
+#corpo {
+float: left;
+width: 900px;
+}

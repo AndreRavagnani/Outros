@@ -1,0 +1,28 @@
+h1 {
+	color: maroon;
+	border-bottom: 1px solid black;
+	text-align: center;
+	}
+h2 {
+	color: cyan;
+	border-bottom: 1px solid black;
+	text-align:center;
+	}
+p.verde{
+	color: green;
+	text-align:justify;
+	}
+p.azul {
+	color: blue;
+	text-align:justify;
+	}
+p.vermelho{
+	color: red;
+	text-align:justify;
+	}
+body {
+	background: url("psg.jpg") no-repeat;
+	border: 1px dotted black;
+	font-family: sans-serif;
+	padding: 10px 10px 10px 10px;
+	}
